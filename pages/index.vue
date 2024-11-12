@@ -29,16 +29,18 @@
    
   <script setup>
   const hardSkills = ref([
-    'c+',
-    'pyhton',
+    'C+',
+    'Pyhton',
     'Figma',
     'HTML',
+    'CSS',
     'Javascript'
   ])
    
   const framework = ref([
-    'nuxt',
-    'vue',
-    'bootstrap',
+    'Nuxt',
+    'Vue',
+    'Bootstrap',
+    'React',
   ])
   </script>
