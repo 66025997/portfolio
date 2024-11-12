@@ -22,7 +22,7 @@ export default defineNuxtConfig({
         },
         {
           rel: "stylesheet", 
-          href: "https://fonts.googleapis.com/css2?family=Noto+Sans:wght@300&display=swap"
+          href: "https://fonts.googleapis.com/css2?family=Mali:wght@200&display=swap"
         },
         {
           rel: "stylesheet", 
